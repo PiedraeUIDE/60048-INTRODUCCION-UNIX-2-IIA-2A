@@ -2,3 +2,4 @@
 uname -a 
 #Este comando permite ver qué intérprete de comandos está usando la terminal de la máquina virtual.
 echo $SHELL
+
